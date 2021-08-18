@@ -1,0 +1,15 @@
+{
+  "name": "rawats-music",
+  "version": "1.0.0",
+  "description": "Say hello to this music player! Purely front end music player showcasing what can be achieved by basic html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Apoorv Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

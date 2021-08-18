@@ -1,0 +1,1 @@
+add margin left and remove right 5% for better mgmt

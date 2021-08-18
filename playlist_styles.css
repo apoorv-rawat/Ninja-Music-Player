@@ -1,0 +1,102 @@
+/* Playlist Page */
+
+/* Playlist Page Banner */
+#playlist_pg_banner {
+    height: 45%; 
+    width: 100%; 
+    background-color: #141b41;
+}
+
+.img_cont_playlist {
+    width: 40%; 
+    height: 100%; 
+    background-image: url('assets/images/artists/Coldplay.jpg');
+}
+
+.pl_banner_content {
+    margin-left: 4%;  
+    width: 54%;
+}
+
+.pl_banner_header h2 {
+    margin: 0;
+}
+
+.pl_banner_info {
+    margin: 0.1rem 0 1rem 0; 
+    color: #a8aab8;
+}
+
+.pl_banner_info p {
+    font-size: 0.8rem; 
+    margin: 0.4rem 0 0 0;
+}
+
+.grad_bg {
+    background: linear-gradient(to right, #3324af, #c549e0); 
+}
+
+.button_type1 {
+    line-height: 30px; 
+    text-align: center; 
+    display: inline-block; 
+    width: 120px; 
+    height: 30px;
+}
+
+.span_type1 {
+    font-size: 0.8rem; 
+    display: block; 
+    margin-top: 0.5rem;
+}
+
+/* MISC Changes */
+#playlist-main-tile-container .font-st {
+    font-size: 0.8rem; 
+    color: #9a9ca6;
+}
+#playlist-main-tile-container .long-tile-left {
+    margin-left: 10px;
+}
+
+#playlist-main-tile-container .long-tile-right {
+    margin-right: 2rem;
+}
+
+.ml-1rem {
+    margin-left: 1rem;
+}
+
+#recently-pl .green-col {
+    color: #b3b3b3;
+}
+
+#similar-artists-container > div {
+    /* immediate child */
+    width: 100%; 
+    height: 90px; 
+    /* border: 1px solid white;  */
+    position: relative; 
+    margin-top: 10px;   
+}
+
+#similar-artists-container h6 {
+    margin: 0;
+}
+
+#similar-artists-container #trk-name {
+    margin-bottom: 1em;
+}
+
+#similar-artists-container .option-menu {
+    top: 20%;
+    right: 5%;
+}
+
+#playlist-main-tile-container {
+    margin-top: 20px;
+}
+
+#playlist-main-tile-container .long-tile {
+    background-color: #1a1e33;
+}
