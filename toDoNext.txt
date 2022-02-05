@@ -1,0 +1,2 @@
+Connect heroku and git
+Add responsive UI.
